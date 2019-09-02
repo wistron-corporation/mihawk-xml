@@ -10863,7 +10863,7 @@
 	<id>/sys-0/node-0/motherboard-0/tpm-connector-2/daughtercard-1</id>
 	<property>
 	<id>FRU_ID</id>
-	<value>36</value>
+	<value>38</value>
 	</property>
 </globalSetting>
 <globalSetting>
