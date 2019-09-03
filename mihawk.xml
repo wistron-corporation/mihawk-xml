@@ -12044,7 +12044,7 @@
 	</attribute>
 	<attribute>
 		<id>OPEN_POWER_MIN_POWER_CAP_WATTS</id>
-		<default>500</default>
+		<default>1945</default>
 	</attribute>
 	<attribute>
 		<id>OPEN_POWER_N_BULK_POWER_LIMIT_WATTS</id>
@@ -12096,7 +12096,7 @@
 	</attribute>
 	<attribute>
 		<id>OPEN_POWER_SOFT_MIN_PCAP_WATTS</id>
-		<default>1945</default>
+		<default>500</default>
 	</attribute>
 	<attribute>
 		<id>OPEN_POWER_TURBO_MODE_SUPPORTED</id>
